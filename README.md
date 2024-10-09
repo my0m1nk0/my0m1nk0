@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://x.com/smy0m1nk0" target="blank"><img src="https://img.shields.io/twitter/follow/@smy0m1nko?logo=twitter&style=for-the-badge" alt="@smy0m1nk0" /></a> </p>
 
-- 🔭 I’m currently working on **Micro Ray**
+- 🔭 I’m currently working on **<a href="https://blue-stone.net/" target="blank">Blue Stone Solution</a> **
 
-- 🌱 I’m currently learning **Angular,Flutter, Java, Spring**
+- 🌱 I’m currently Use Language  **Angular,Flutter, Java, Node , Express**
 
 - 💬 Ask me about **JavaScript,Flutter**
 
